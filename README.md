@@ -2,6 +2,18 @@
 
 ---
 
+# Update 
+
+
+add tailwind: https://dev.to/paul42/svelte-tailwind-css-minimal-install-ia2
+follow tutorial: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_todo_list_beginning
+
+??? 
+
+profit
+
+
+
 # svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
